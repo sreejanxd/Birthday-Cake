@@ -3,5 +3,5 @@
 ---
 *✨ Star the repo if u liked it and follow for more CSS and HTML project.✨*
 ---
-*You can check it out [here]([https://debmalyapyne.github.io/Birthday-Cake/]).*
+*You can check it out [here](https://debmalyapyne.github.io/Birthday-Cake/).*
 ---
